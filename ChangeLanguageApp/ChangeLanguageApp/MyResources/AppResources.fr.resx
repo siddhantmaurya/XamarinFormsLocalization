@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BodyText" xml:space="preserve">
-    <value>This is body text  in French or Cuerpo</value>
+    <value>Changez de langue en un clin d'œil!</value>
   </data>
   <data name="English" xml:space="preserve">
     <value>English</value>
@@ -127,10 +127,10 @@
     <value>française</value>
   </data>
   <data name="HeaderText" xml:space="preserve">
-    <value>This is header text  in French </value>
+    <value>Bienvenue dans Xamarin Forms</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>French Text</value>
+    <value>sauvegarder</value>
   </data>
   <data name="Spanish" xml:space="preserve">
     <value>Española</value>

@@ -61,7 +61,7 @@ namespace ChangeLanguageApp.MyResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Let&apos;s get starterd.
+        ///   Looks up a localized string similar to Change language in a snap!.
         /// </summary>
         internal static string BodyText {
             get {
